@@ -66,7 +66,7 @@ int main() {
         int posofseat_num=0;
         char *colorofseat_num;
         for(i=g3[0];i<=seat_num;i++){
-            printf("Executed");
+            
             posofseat_num++;
         }
        
